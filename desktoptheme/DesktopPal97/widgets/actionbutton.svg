@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg32"
+   width="64"
+   height="16"
+   version="1"
+   sodipodi:docname="actionbutton.svg"
+   inkscape:version="1.2.1 (1:1.2.1+202210291243+9c6d41e410)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4968"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="3.6875"
+     inkscape:cx="56.271186"
+     inkscape:cy="-41.355932"
+     inkscape:window-width="1536"
+     inkscape:window-height="866"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5164" />
+  </sodipodi:namedview>
+  <defs
+     id="defs16">
+    <linearGradient
+       id="linearGradient2047"
+       x1="-406"
+       x2="-406"
+       y1="236"
+       y2="222"
+       gradientTransform="translate(49.74743,2.1472793)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1645" />
+    <linearGradient
+       id="linearGradient1645">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1"
+         id="stop1641"
+         offset="0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop1643"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1859">
+      <stop
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         id="stop1855"
+         offset="0" />
+      <stop
+         style="stop-color:#b7b7b7;stop-opacity:1"
+         id="stop1857"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient928"
+       x1="-366.094"
+       x2="-366.094"
+       y1="235"
+       y2="221"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1859" />
+  </defs>
+  <g
+     id="normal"
+     transform="translate(375,-220)">
+    <ellipse
+       style="fill:#000000;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="path5162"
+       cx="-367.00003"
+       cy="228"
+       rx="8.0000143"
+       ry="8" />
+    <ellipse
+       style="fill:#7f9faa;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="ellipse5166"
+       cx="-367"
+       cy="228"
+       rx="6.9999957"
+       ry="7" />
+  </g>
+  <g
+     id="hover"
+     transform="translate(391,-220)">
+    <ellipse
+       style="fill:#000000;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="path5162-3"
+       cx="-367.00003"
+       cy="228"
+       rx="8.0000143"
+       ry="8" />
+    <ellipse
+       style="fill:#a6caf0;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="ellipse5166-6"
+       cx="-367"
+       cy="228"
+       rx="6.9999957"
+       ry="7" />
+  </g>
+  <g
+     id="focus"
+     transform="translate(407,-220)">
+    <ellipse
+       style="fill:#000000;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="path5162-3-7"
+       cx="-367.00003"
+       cy="228"
+       rx="8.0000143"
+       ry="8" />
+    <ellipse
+       style="fill:#a6caf0;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="ellipse5166-6-5"
+       cx="-367"
+       cy="228"
+       rx="6.9999957"
+       ry="7" />
+  </g>
+  <g
+     id="pressed"
+     transform="translate(423,-220)">
+    <ellipse
+       style="fill:#000000;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="path5162-3-3"
+       cx="-367"
+       cy="228"
+       rx="8.0000143"
+       ry="8" />
+    <ellipse
+       style="fill:#2a5f55;stroke-width:37.7953;stroke-linecap:square;paint-order:stroke markers fill"
+       id="ellipse5166-6-56"
+       cx="-366.99997"
+       cy="228"
+       rx="6.9999957"
+       ry="7" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=DesktopPal97
+Description=Your first-class visual companion for your personal desktop computer.
+Author=BunnyMnemonic
+Copyright=
+License=GPL3
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=DesktopPal97
+Theme-API=2.0

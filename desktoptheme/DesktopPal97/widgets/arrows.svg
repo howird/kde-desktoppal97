@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.000004"
+   height="52.000004"
+   viewBox="0 0 52.000004 52.000006"
+   version="1.1"
+   id="svg832"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="arrows.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs826" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="24.000001"
+     inkscape:cy="32.812501"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1532"
+     inkscape:window-height="866"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid33939" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata829">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-113.21508,-314.26254)">
+    <g
+       id="up-arrow"
+       transform="translate(5.0685425,27.026639)">
+      <rect
+         y="290.2359"
+         x="110.14654"
+         height="24"
+         width="24"
+         id="rect2880"
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 116.14654,306.2359 h 2 l 4,-5 4,5 h 2 l -6,-8 z"
+         id="path33995" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,6.0685419,653.49844)"
+       id="down-arrow">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect855"
+         width="24"
+         height="24"
+         x="110.14654"
+         y="290.2359" />
+      <path
+         style="fill:#ffffff;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 116.14654,306.2359 h 2 l 4,-5 4,5 h 2 l -6,-8 z"
+         id="path33995-5" />
+    </g>
+    <g
+       transform="rotate(-90,149.69413,300.71495)"
+       id="left-arrow">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect861"
+         width="24"
+         height="24"
+         x="110.14654"
+         y="290.2359" />
+      <path
+         style="fill:#ffffff;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 116.14654,306.2359 h 2 l 4,-5 4,5 h 2 l -6,-8 z"
+         id="path33995-7" />
+    </g>
+    <g
+       transform="rotate(90,111.66749,341.78349)"
+       id="right-arrow">
+      <rect
+         style="opacity:0.6;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect867"
+         width="24"
+         height="24"
+         x="110.14654"
+         y="290.2359" />
+      <path
+         style="fill:#ffffff;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 116.14654,306.2359 h 2 l 4,-5 4,5 h 2 l -6,-8 z"
+         id="path33995-4" />
+    </g>
+  </g>
+</svg>
