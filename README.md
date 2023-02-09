@@ -21,13 +21,13 @@ DesktopPal97 takes its inspiration from the desktop GUIs from the 1990s and 2000
 
 :cd: Window decoration: DesktopPal97 (inspired by the KDE2 window decoration)
 
-:cd: Icon theme: RetroSmart (modified)
+:cd: Icon theme: [RetroSmart (modified)](https://github.com/mdomlop/retrosmart-icon-theme)
 
 :cd: Font: Noto Sans (Kubuntu default)
 
-:cd: Cursor theme: Simp1e Dark
+:cd: Cursor theme: [Simp1e Dark](https://www.pling.com/p/1932768)
 
-:cd: Wallpaper: Balaton
+:cd: Wallpaper: Balaton (default DesktopPal97 wallpaper)
 
 ## Hacks & extra customizations
 
