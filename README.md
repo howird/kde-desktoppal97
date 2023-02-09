@@ -11,7 +11,7 @@ A proper GTK3/4 theme is missing but any contribution is welcomed. However, it l
 
 DesktopPal97 takes its inspiration from the Desktop GUIs from the 90s and 00s (eg. KDE2) and it uses the 256 color VGA palette.
 
-![Preview](artwork/preview.png)
+<img src="artwork/preview.png" width="640" height="360">
 
 ## Details
 
