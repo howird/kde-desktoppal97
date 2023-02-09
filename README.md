@@ -2,8 +2,6 @@
 
 *"Your first-class visual companion for your personal desktop computer."*
 
-<img src="artwork/DesktopPal97.png" width="200" height="200">
-
 DesktopPal97 is a rebellious yet classic fantasy desktop imitating the 90s aesthetics.
 It is a full-featured theme for KDE Plasma including Global Theme, customized Lockscreen and Logout screen, Plasma Theme, Aurorae theme, Kvantum theme, and SDDM theme. Even a custom KWin Overview effect and KWin Windowview effect is available.
 
