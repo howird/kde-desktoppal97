@@ -1,29 +1,46 @@
 # DesktopPal97
 
-"Your first-class visual companion for your personal desktop computer."
+*"Your first-class visual companion for your personal desktop computer."*
+
+<img src="artwork/DesktopPal97.png" width="200" height="200">
 
 DesktopPal97 is a rebellious yet classic fantasy desktop imitating the 90s aesthetics.
 It is a full-featured theme for KDE Plasma including Global Theme, customized Lockscreen and Logout screen, Plasma Theme, Aurorae theme, Kvantum theme, and SDDM theme. Even a custom KWin Overview effect and KWin Windowview effect is available.
 
 A proper GTK3/4 theme is missing but any contribution is welcomed. However, it looks quite decent with the default Breeze GTK theme, too.
 
-DesktopPal97 uses the 256 color VGA palette.
+DesktopPal97 takes its inspiration from the Desktop GUIs from the 90s and 00s (eg. KDE2) and it uses the 256 color VGA palette.
+
+![Preview](artwork/preview.png)
 
 ## Details
 
-- Plasma theme: DesktopPal97
-- Look and Feel theme: DesktopPal97
-- Widget style: DesktopPal97 (Kvantum)
-- Window decoration: DesktopPal97 (inspired by the KDE2 window decoration)
-- Icon theme: RetroSmart (modified)
-- Font: Noto Sans (Kubuntu default)
-- Cursor theme: Simp1e Dark
-- Wallpaper: Balaton
+:cd: Plasma theme: DesktopPal97
 
-## Extra customizations
-- Custom KWin Overview effect: copy "overview" folder to "~/.local/share/kwin/effects"
-- Custom KWin Windowview effect: copy "windowview" folder to "~/.local/share/kwin/effects"
-- Firefox: force light mode. Go to "about:config" and change "ui.systemUsesDarkTheme" to 0
-- To make Simp1e cursor theme available in SDDM, copy the cursor theme folder to "root/usr/share/". Go to System Settings > Startup and Shutdown > Login Screen (SDDM) and click "Apply Plasma Settings...".
-- The width of the right-side panel is 64 pixel in the screenshot.
-- You might loose the shortcut of the Kickoff launcher widget when you apply the layout of the Global theme. To restore the shortcut (Meta button), go to Kickoff settings > Shortcuts > set the shortcut to Alt+F1.
+:cd: Look and Feel theme: DesktopPal97
+
+:cd: Widget style: DesktopPal97 (Kvantum)
+
+:cd: Window decoration: DesktopPal97 (inspired by the KDE2 window decoration)
+
+:cd: Icon theme: RetroSmart (modified)
+
+:cd: Font: Noto Sans (Kubuntu default)
+
+:cd: Cursor theme: Simp1e Dark
+
+:cd: Wallpaper: Balaton
+
+## Hacks & extra customizations
+
+:cd: Custom KWin Overview effect: copy "overview" folder to "~/.local/share/kwin/effects"
+
+:cd: Custom KWin Windowview effect: copy "windowview" folder to "~/.local/share/kwin/effects"
+
+:cd: Firefox: force light mode. Go to "about:config" and change "ui.systemUsesDarkTheme" to 0
+
+:cd: To make Simp1e cursor theme available in SDDM, copy the cursor theme folder to "root/usr/share/". Go to System Settings > Startup and Shutdown > Login Screen (SDDM) and click "Apply Plasma Settings...".
+
+:cd: The width of the right-side panel is 64 pixel in the screenshot.
+
+:cd: You might loose the shortcut of the Kickoff launcher widget when you apply the layout of the Global theme. To restore the shortcut (Meta button), go to Kickoff settings > Shortcuts > set the shortcut to Alt+F1.
