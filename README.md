@@ -13,13 +13,17 @@ DesktopPal97 takes its inspiration from the desktop GUIs from the 1990s and 2000
 
 ## Theme details
 
-:cd: Plasma theme: DesktopPal97
+:cd: Global theme: [DesktopPal97](https://www.pling.com/p/1985239/)
 
-:cd: Look and Feel theme: DesktopPal97
+:cd: Plasma theme: [DesktopPal97](https://www.pling.com/p/1985233/)
 
-:cd: Widget style: DesktopPal97 (Kvantum)
+:cd: Color scheme: [DesktopPal97](https://www.pling.com/p/1985230/)
 
-:cd: Window decoration: DesktopPal97 (inspired by the KDE2 window decoration)
+:cd: Widget style: [DesktopPal97](https://www.pling.com/p/1985234/) (Kvantum)
+
+:cd: Window decoration: [DesktopPal97](https://www.pling.com/p/1985232/) (inspired by the KDE2 window decoration)
+
+:cd: SDDM: [DesktopPal97](https://www.pling.com/p/1985237/)
 
 :cd: Icon theme: [RetroSmart (modified)](https://github.com/mdomlop/retrosmart-icon-theme)
 
@@ -27,7 +31,7 @@ DesktopPal97 takes its inspiration from the desktop GUIs from the 1990s and 2000
 
 :cd: Cursor theme: [Simp1e Dark](https://www.pling.com/p/1932768)
 
-:cd: Wallpaper: Balaton (default DesktopPal97 wallpaper)
+:cd: Wallpaper: [Balaton](https://www.pling.com/p/1985236/) (default DesktopPal97 wallpaper)
 
 ## Hacks & extra customizations
 
