@@ -15,4 +15,4 @@ X-KDE-PluginInfo-Website=https://www.pling.com/u/bunnymnemonic/
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
 X-Plasma-APIVersion=2
-#X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/0000000,kns://colorschemes.knsrc/api.kde-look.org/0000000,kns://plasma-themes.knsrc/api.kde-look.org/0000000,kns://wallpaper.knsrc/api.kde-look.org/0000000,kns://sddmtheme.knsrc/api.kde-look.org/0000000
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/1985232,kns://colorschemes.knsrc/api.kde-look.org/1985230,kns://plasma-themes.knsrc/api.kde-look.org/1985233,kns://wallpaper.knsrc/api.kde-look.org/1985236,kns://sddmtheme.knsrc/api.kde-look.org/1985237
