@@ -11,7 +11,7 @@ DesktopPal97 takes its inspiration from the desktop GUIs from the 1990s and 2000
 
 <img src="artwork/preview.png" width="640" height="360">
 
-## Details
+## Theme details
 
 :cd: Plasma theme: DesktopPal97
 
