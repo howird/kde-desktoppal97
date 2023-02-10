@@ -19,7 +19,7 @@ DesktopPal97 takes its inspiration from the desktop GUIs from the 1990s and 2000
 
 :cd: Color scheme: [DesktopPal97](https://www.pling.com/p/1985230/)
 
-:cd: Widget style: [DesktopPal97](https://www.pling.com/p/1985234/) (Kvantum)
+:cd: Widget style: [DesktopPal97](https://www.pling.com/p/1985234/) (Kvantum theme)
 
 :cd: Window decoration: [DesktopPal97](https://www.pling.com/p/1985232/) (inspired by the KDE2 window decoration)
 
